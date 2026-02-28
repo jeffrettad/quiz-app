@@ -77,7 +77,7 @@ const Index = () => {
               onClick={() =>
                 navigate("/quiz-setup?category=9&difficulty=medium&amount=10")
               }
-              className="bg-white/95 text-background font-semibold px-5 py-2.5 rounded-xl text-sm hover:bg-white transition-colors"
+              className="bg-blue/95 text-background font-semibold px-5 py-2.5 rounded-xl text-sm hover:bg-black transition-colors"
             >
               Start Now
             </button>
